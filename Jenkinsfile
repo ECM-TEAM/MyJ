@@ -1,3 +1,4 @@
+library 'SharedLibs'
 stage('Shared Lib') {
          steps {
              helloWorld("Jenkins")
